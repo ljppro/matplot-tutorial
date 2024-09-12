@@ -430,7 +430,7 @@ Subplots
 
 With subplot you can arrange plots in a regular grid. You need to specify the
 number of rows and columns and the number of the plot. Note that the `gridspec
-<http://matplotlib.sourceforge.net/users/gridspec.html>`_ command is a more
+<https://matplotlib.org/stable/api/_as_gen/matplotlib.gridspec.GridSpec.html>`_ command is a more
 powerful alternative.
 
 .. image:: figures/subplot-horizontal.png
